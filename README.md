@@ -8,3 +8,4 @@ Discover a unique golf course with 18 holes nestled in mountains, deserts, ocean
 Google Play Store: 
 
 ## Privacy Policy
+[Follow link to Privacy Policy](https://github.com/GreenShellJimmy/Speed-Golf-Adventure/blob/main/PrivacyPolicy.md).
